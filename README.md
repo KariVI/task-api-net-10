@@ -11,3 +11,21 @@ Proyecto de demostración para el curso **Github Actions**
 - Git, Github
 
 En desarrollo activo.
+
+## Licencia
+
+MIT License — ver archivo LICENSE para detalles.
+
+## Autor
+
+Jimmy Javier
+
+## Estado del proyecto
+
+- [ ] Crear el proyecto
+- [ ] Crear el modelo
+- [ ] Crear el controlador
+- [ ] Crear las pruebas unitarias
+- [ ] Crear las pruebas de integración
+- [ ] Crear el pipeline de CI
+- [ ] Crear el pipeline de CD
