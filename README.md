@@ -32,4 +32,4 @@ Jimmy Javier
 
 ## CI/CD
 
-> Información sobre Github Actions se agregará durante el curso.
+> Información sobre Github Actions se agregará durante el curso, al igual que los temas presentados.
