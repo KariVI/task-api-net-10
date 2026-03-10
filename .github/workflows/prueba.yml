@@ -11,7 +11,11 @@ jobs:
             - name: Paso Hola mundo
               run: echo "Hola desde GitHub Actions"
 
-            -name: Debug 
-             run: |
-              echo "Debugging GITHUB_REF: ${{ github.ref }}"
-              echo "Debugging RUNNER_OS: ${{ runner.os }}"
+            - name: Debug
+            run: |
+            echo "Debugging: GITHUB_REF: ${{github.ref}}"
+            echo "Debugging: RUNNER_OS: ${{ runner.os}}"
+
+
+            
+            
