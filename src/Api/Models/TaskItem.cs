@@ -28,9 +28,9 @@ public class TaskItem
 }
 
 /// <summary>Niveles de prioridad de una tarea.</summary>
-// public enum Priority
-// {
-//     Low = 0,
-//     Medium = 1,
-//     High = 2
-// }
+public enum Priority
+{
+    Low = 0,
+    Medium = 1,
+    High = 2
+}
